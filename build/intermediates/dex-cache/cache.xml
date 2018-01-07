@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mine\AndroidStudioProjects\SuakaOnlineApp\app\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\SuakaOnlineApp\app\build\intermediates\pre-dexed\debug\gson-2.2.2_9d03bea5d623d28be047a134da665c39432668bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mine\AndroidStudioProjects\SuakaOnlineApp\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\SuakaOnlineApp\app\build\intermediates\pre-dexed\debug\volley_3405ed2c9e3c64398df4f052a55ac66fd963a1c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mine\AndroidStudioProjects\SuakaOnlineApp\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\SuakaOnlineApp\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_414dbd830c71c504da16d1cc7eb629e42066f3a5.jar" />
+    </item>
+
+</items>

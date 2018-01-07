@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SuakaOnline</string>
+    <string name="title_activity_home">SuakaOnline</string>
+
+    <!-- fragments name -->
+    <string name="recent_posts">Terbaru</string>
+    <string name="categories">Kategori</string>
+    <string name="queries">Fresh!</string>
+
+    <string name="navigation_drawer_open">Membuka Navigasi</string>
+    <string name="navigation_drawer_close">Menutup Navigasi</string>
+
+    <!-- menu items -->
+    <string name="action_settings">Tentang</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">Tentang Kami</string>
+    <string name="visit_us">Kunjungi Kami</string>
+    <string name="facebook">Facebook</string>
+    <string name="youtube">Youtube</string>
+    <string name="website">SuakaOnline.com</string>
+
+    <string name="toast_network_error">Jaringan Error! Silahkan Coba Lagi</string>
+    <string name="permission">Please enable permissions</string>
+    <string name="fresh_suaka">Fresh Suaka</string>
+    <string name="website_lensa_suaka">Lensa Suaka</string>
+
+</resources>
