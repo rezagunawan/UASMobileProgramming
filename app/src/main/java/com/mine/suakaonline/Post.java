@@ -1,3 +1,5 @@
+// detail berita terbaru
+// Reza Gunawan
 package com.mine.suakaonline;
 
 import android.app.ProgressDialog;
