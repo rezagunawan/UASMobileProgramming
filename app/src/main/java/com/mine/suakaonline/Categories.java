@@ -1,3 +1,5 @@
+// Fragment Activity Kategori
+// Romi Rosmawati
 package com.mine.suakaonline;
 
 import android.content.Intent;
