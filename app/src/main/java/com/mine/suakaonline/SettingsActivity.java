@@ -1,3 +1,5 @@
+// Activity untuk tentang aplikasi, tentang kami
+// Ulfah Choirun Nissa
 package com.mine.suakaonline;
 
 import android.content.Intent;
