@@ -1,4 +1,4 @@
-// Model JSON dari API
+// Model JSON Kategori dari API
 // Reza Gunawan
 
 package com.mine.suakaonline.model;
