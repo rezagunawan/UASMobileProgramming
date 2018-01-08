@@ -1,3 +1,6 @@
+// Adapter untuk menampilkan post terbaru
+// Reza Gunawan
+
 package com.mine.suakaonline.helper;
 
 import android.app.Activity;

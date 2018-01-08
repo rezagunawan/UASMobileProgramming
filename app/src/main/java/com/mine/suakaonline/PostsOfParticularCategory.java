@@ -1,3 +1,6 @@
+// Berita tiap kategori
+// Ulfah Choirun Nissa
+
 package com.mine.suakaonline;
 
 import android.content.Intent;

@@ -1,3 +1,6 @@
+// List berita terbaru
+// Reza Gunawan
+
 package com.mine.suakaonline;
 
 import android.content.Intent;

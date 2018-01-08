@@ -70,6 +70,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <!--Contact Us Tidak dipakai-->
         <activity android:name="com.mine.suakaonline.ContactUs">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -77,6 +78,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
         <activity android:name="com.mine.suakaonline.SitePageLoader">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
