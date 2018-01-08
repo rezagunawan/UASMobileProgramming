@@ -1,3 +1,4 @@
+// Kontak Us, tidak dipakai karena ternyata suaka cukup di about us saja
 package com.mine.suakaonline;
 
 import android.content.Intent;
