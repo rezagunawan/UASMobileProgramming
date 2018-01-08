@@ -1,3 +1,5 @@
+// Link API Wordpress
+// Ulfah Choriun Nissa
 package com.mine.suakaonline.constant;
 
 public class Const {
