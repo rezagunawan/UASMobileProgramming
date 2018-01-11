@@ -18,9 +18,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.Toast;
 
-import com.mine.suakaonline.R;
-
-public class AskYourProblemActivity extends Fragment {
+public class FreshActivity extends Fragment {
 
     static WebView mWebView;
     private ValueCallback<Uri> mUploadMessage;
@@ -28,14 +26,14 @@ public class AskYourProblemActivity extends Fragment {
     public static final int REQUEST_SELECT_FILE = 100;
     private final static int FILECHOOSER_RESULTCODE = 1;
 
-    public AskYourProblemActivity() {
+    public FreshActivity() {
     }
 
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View view =  inflater.inflate(R.layout.fragment_ask_your_problem, container, false);
+        View view =  inflater.inflate(R.layout.fragment_fresh, container, false);
 
         mWebView = (WebView) view.findViewById(R.id.webViewAskUs);
 
@@ -44,7 +42,6 @@ public class AskYourProblemActivity extends Fragment {
         mWebSettings.setSupportZoom(false);
         mWebSettings.setAllowFileAccess(true);
         mWebSettings.setAllowContentAccess(true);
-//        mWebView.loadUrl("file:///android_asset/ask_us.html");
         mWebView.loadUrl("http://fresh.suakaonline.com");
         mWebView.setWebChromeClient(new WebChromeClient()
         {
@@ -124,8 +121,7 @@ public class AskYourProblemActivity extends Fragment {
         {
             if (null == mUploadMessage)
                 return;
-            // Use MainActivity.RESULT_OK if you're implementing WebView inside Fragment
-            // Use RESULT_OK only if you're implementing WebView inside an Activity
+
             Uri result = intent == null || resultCode != getActivity().RESULT_OK ? null : intent.getData();
             mUploadMessage.onReceiveValue(result);
             mUploadMessage = null;

@@ -21,7 +21,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.mine.suakaonline.R;
 import com.mine.suakaonline.constant.Const;
 
 import java.util.ArrayList;
@@ -62,7 +61,7 @@ public class Home extends AppCompatActivity implements NavigationView.OnNavigati
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new Recent(),getResources().getString(R.string.recent_posts));
         adapter.addFragment(new Categories(),getResources().getString(R.string.categories));
-        adapter.addFragment(new AskYourProblemActivity(),getResources().getString(R.string.queries));
+        adapter.addFragment(new FreshActivity(),getResources().getString(R.string.queries));
         viewPager.setAdapter(adapter);
     }
 
