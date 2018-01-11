@@ -1,3 +1,4 @@
+// izin untuk android runtime
 package com.mine.suakaonline;
 
 import android.Manifest;

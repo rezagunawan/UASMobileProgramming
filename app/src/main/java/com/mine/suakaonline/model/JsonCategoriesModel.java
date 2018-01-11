@@ -1,3 +1,6 @@
+// Model JSON Kategori dari API
+// Reza Gunawan
+
 package com.mine.suakaonline.model;
 
 public class JsonCategoriesModel {

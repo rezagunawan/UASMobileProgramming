@@ -1,3 +1,5 @@
+// Model JSON Berita
+// Reza Gunawan
 package com.mine.suakaonline.model;
 
 public class JsonDataModel {

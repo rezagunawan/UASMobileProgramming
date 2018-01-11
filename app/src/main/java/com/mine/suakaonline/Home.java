@@ -1,7 +1,6 @@
 // Halaman Utama Home Menampung semua fragment, terbaru, kategori, fresh
 // Reza Gunawan
 
-
 package com.mine.suakaonline;
 
 import android.content.Context;

@@ -1,6 +1,5 @@
 // Adapter Untuk Kategori
 // Romi Rosmawati
-
 package com.mine.suakaonline.helper;
 
 import android.app.Activity;
